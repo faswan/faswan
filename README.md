@@ -1,4 +1,6 @@
-### Hi there 👋
+### Привет 👋
+[Добавление задач и их выполнение на чистом JS](https://faswan.github.io/Habbit_basic_js/)
+
 
 <!--
 **faswan/faswan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
